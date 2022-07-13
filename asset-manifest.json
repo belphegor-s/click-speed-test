@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/click-speed-test/static/css/main.d56bea40.chunk.css",
+    "main.js": "/click-speed-test/static/js/main.faa83162.chunk.js",
+    "main.js.map": "/click-speed-test/static/js/main.faa83162.chunk.js.map",
+    "runtime-main.js": "/click-speed-test/static/js/runtime-main.4f624cfa.js",
+    "runtime-main.js.map": "/click-speed-test/static/js/runtime-main.4f624cfa.js.map",
+    "static/js/2.465658bf.chunk.js": "/click-speed-test/static/js/2.465658bf.chunk.js",
+    "static/js/2.465658bf.chunk.js.map": "/click-speed-test/static/js/2.465658bf.chunk.js.map",
+    "index.html": "/click-speed-test/index.html",
+    "precache-manifest.39184dbf2570e851c477006bd88aa3af.js": "/click-speed-test/precache-manifest.39184dbf2570e851c477006bd88aa3af.js",
+    "service-worker.js": "/click-speed-test/service-worker.js",
+    "static/css/main.d56bea40.chunk.css.map": "/click-speed-test/static/css/main.d56bea40.chunk.css.map",
+    "static/js/2.465658bf.chunk.js.LICENSE.txt": "/click-speed-test/static/js/2.465658bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f624cfa.js",
+    "static/js/2.465658bf.chunk.js",
+    "static/css/main.d56bea40.chunk.css",
+    "static/js/main.faa83162.chunk.js"
+  ]
+}
